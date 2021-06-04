@@ -7,4 +7,4 @@ Required PIP MODULE: https://pypi.org/project/weblib/ use pip install weblib
 Happy Hacking 
 
 https://t.me/GhostSecc
-@SebastianDalex
+Twitter: @SebastianDalex
