@@ -3,15 +3,15 @@
 # --------------------------------
 YOUR_Email_For_TAkeAdmin_Exploit = 'Email@mail.ru'  # Edit this line with your email Address
 r = '\033[31m'
-g = '\033[32m'  # JEx Bot Version 3.0 [1/10/2020]
+g = '\033[32m'  # JEx Bot Version 4.0 
 y = '\033[33m'  # Note! : We don't Accept any responsibility for any illegal usage.
 b = '\033[34m'  # This tool is for Penetration Testing
 m = '\033[35m'  #
-c = '\033[36m'  # if you don't buy this script please buy Then use.
-w = '\033[37m'  # [t.me/JEXShop]
+c = '\033[36m'  # Leaked by #GhostSec 
+w = '\033[37m'  # https://t.me/GhostSecc
 # --------------------------------
 
-VERSION = 'JEx Bot [3.0]'
+VERSION = 'JEx Bot [4.0]'
 
 # ----------------------------------------
 from Tools import cms
